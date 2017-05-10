@@ -1,6 +1,6 @@
 {
   "name": "create-bee-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "create bee apps with no build configuration",
   "main": "index.js",
   "bin": {
