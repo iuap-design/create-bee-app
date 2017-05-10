@@ -24,4 +24,4 @@ Create bee apps with no build configuration.
 
 
 ## License
-[MIT](https://github.com/iuap-design/create-bee-app/LICENSE)
+[MIT](https://github.com/iuap-design/create-bee-app/blob/master/LICENSE)
